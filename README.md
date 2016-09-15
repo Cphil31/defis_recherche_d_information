@@ -1,7 +1,7 @@
 # defis_recherche_d_information
 27-Retrouvez le code source de la mission Apollo 11?
 -35
-
+***
 1-Par qui, quand, pourquoi et où a été inventé Internet ?
 
 
@@ -15,14 +15,14 @@ En savoir plus sur http://www.jaitoutcompris.com/questions/qui-a-invente-interne
 
 src=http://www.jaitoutcompris.com/questions/qui-a-invente-internet-12.php
 
-
+***
 2-Quelle est la différence entre le Web et Internet ?
 
 internet est un réseau par lequel transitent des données, 
 le web (raccourci de « world wide web », traduit en français par toile mondiale) correspond à une des applications utilisant ce réseau, la principale.
 
 https://www.service-public.fr/particuliers/actualites/007052
-
+***
 28-Qu’est-ce que Agile Manifesto ? 
 
 Le Agile Manifesto (Manifeste agile) est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles.
@@ -35,7 +35,7 @@ La collaboration avec les clients plus que la négociation contractuelle.
 L’adaptation au changement plus que le suivi d’un plan.
 
 src = https://fr.wikipedia.org/wiki/Manifeste_agile
-
+***
 29-Trouvez un screenshot de la première version de Facebook:
 
 voici le lien du premier screenshot de la première version de Facebook http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg
