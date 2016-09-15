@@ -137,7 +137,10 @@ src=http://www.esilv.fr/numerique-le-classement-des-langages-de-programmation-le
 
 ***
 Quelles sont les différences entre un software open-source et un software free ?
+« le mouvement open source est une méthodologie de développement ; le mouvement du logiciel libre, un mouvement social »
+le mouvement open source s'adresse plutot aux développeurs.
 
+src=https://www.gnu.org/philosophy/free-software-for-freedom.fr.html
 
 
 ***
