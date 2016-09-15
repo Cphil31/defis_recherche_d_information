@@ -87,3 +87,66 @@ Un bug bounty est un programme proposé par de nombreux sites web et développeu
 src=https://fr.wikipedia.org/wiki/Bug_bounty
 ****
 
+33-Qu'est-ce qu'une adresse IP v4 ?                               
+
+
+***
+
+Pourquoi parle-t-on aussi d'adresse IP v6 ?
+
+***
+Combien coûte un serveur pour héberger mon site perso ?
+
+
+***
+Qu’est-ce que le Cowboy coding ?
+
+***
+Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
+
+***
+Quelles sont les différences entre un software open-source et un software free ?
+
+***
+Trouvez trois entreprises qui développent des solutions Free & OpenSource
+
+
+***
+comment gagnent-elles de l’argent ?
+
+
+***
+
+
+
+Qui est Phil Zimmermann ?
+
+
+***
+Qu’est-ce que le W3C ?  
+
+
+***
+Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ? 
+
+
+***
+Amine cherche un article qu'il a lu au sujet d'une personne qui évoque la difficulté de planifier précisément le développement en utilisant une métaphore d'une personne organisant une grande marche pour rejoindre un ami, situé à plusieurs centaines de kilomètres. Il aurait lu cet article sur Quora. Retrouvez cet article et lisez-le :)
+Que sont les White Hat et les Black Hat ?
+
+
+***
+Qu’est-ce qu’une attaque DDoS ?
+
+
+***
+Quelles est l'adresse MAC de votre ordinateur ?
+
+
+***
+Et de votre smartphone ? 
+
+
+***
+Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior
+
