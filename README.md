@@ -89,10 +89,15 @@ src=https://fr.wikipedia.org/wiki/Bug_bounty
 
 33-Qu'est-ce qu'une adresse IP v4 ?                               
 
+IPv4 (Internet Protocol version 4) est la première version d'Internet Protocol (IP)
+Chaque interface d'un hôte IPv4 se voit attribuer une ou plusieurs adresses IP codées sur 32 bits.
+Une adresse IPv4 est représentée sous la forme de quatre nombres décimaux séparés par des points comme 193.43.55.67. Chacun des nombres représente un octet. La plage d'attribution s'étend de 0.0.0.0 à 255.255.255.255, sachant qu'il existe des contraintes empêchant l'utilisation de certaines adresses (réservée, masque, broadcast, etc.).
 
+
+
+src=https://fr.wikipedia.org/wiki/IPv4
 ***
-
-Pourquoi parle-t-on aussi d'adresse IP v6 ?
+34-Pourquoi parle-t-on aussi d'adresse IP v6 ?
 
 ***
 Combien coûte un serveur pour héberger mon site perso ?
