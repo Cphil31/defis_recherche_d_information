@@ -74,3 +74,9 @@ l devient alors inutile d’investir dans un unique appareil extrêmement puissa
 
 src=http://www.promosoft.fr/quest-ce-que-le-load-balancing/
 ***
+Qu’est-ce que l’Open Source ?
+
+La désignation open source, ou « code source ouvert », s'applique aux logiciels dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs.
+
+src=https://fr.wikipedia.org/wiki/Open_source
+***
