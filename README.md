@@ -80,3 +80,10 @@ La désignation open source, ou « code source ouvert », s'applique aux logicie
 
 src=https://fr.wikipedia.org/wiki/Open_source
 ***
+
+32-Qu’est-ce que le Bug Bounty ?
+Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, 
+
+src=https://fr.wikipedia.org/wiki/Bug_bounty
+****
+
