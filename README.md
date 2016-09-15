@@ -39,3 +39,27 @@ src = https://fr.wikipedia.org/wiki/Manifeste_agile
 29-Trouvez un screenshot de la première version de Facebook:
 
 voici le lien du premier screenshot de la première version de Facebook http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg
+
+30-Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+
+Windows XP 169 806 (79,8 %) 
+Windows 2000 19 510 (9,2 %) 
+Windows 98 10 397 (4,9 %) 
+Mac Os X 3 354 (1,6 %) 
+Windows Millenium 2 328 (1,1 %) 
+Windows Autre Version 1 794 (0,8 %) 
+Windows NT 1 257 (0,6 %) 
+Linux 1 236 (0,6 %) 
+Windows 2003 1 072 (0,5 %) 
+Mac Os PPC 981 (0,5 %) 
+Autre Os 729 (0,3 %) 
+Windows 95 198 (0,1 %) 
+Os2 131 (0,1 %) 
+Mac Os Autre version 43 (0,0 %) 
+Unix 27 (0,0 %) 
+PSP 3 (0,0 %) 
+Windows Vista 1 (0,0 %)
+Haut
+
+
+src = http://forum.webrankinfo.com/repartition-des-systemes-exploitation-serveur-t48420.html
