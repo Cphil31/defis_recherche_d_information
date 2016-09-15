@@ -96,8 +96,12 @@ Une adresse IPv4 est représentée sous la forme de quatre nombres décimaux sé
 
 
 src=https://fr.wikipedia.org/wiki/IPv4
+
 ***
 34-Pourquoi parle-t-on aussi d'adresse IP v6 ?
+
+lIPv6 (Internet Protocol version 6) est un protocole réseau sans connexion
+elle est la version mise a jour de l'ip v4 
 
 ***
 Combien coûte un serveur pour héberger mon site perso ?
