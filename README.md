@@ -24,3 +24,14 @@ le web (raccourci de « world wide web », traduit en français par toile mondia
 https://www.service-public.fr/particuliers/actualites/007052
 
 28-Qu’est-ce que Agile Manifesto ? 
+
+Le Agile Manifesto (Manifeste agile) est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles.
+
+Les 4 valeurs pricipales :
+
+Les individus et leurs interactions plus que les processus et les outils.
+Du logiciel qui fonctionne plus qu’une documentation exhaustive.
+La collaboration avec les clients plus que la négociation contractuelle.
+L’adaptation au changement plus que le suivi d’un plan.
+
+src = https://fr.wikipedia.org/wiki/Manifeste_agile
