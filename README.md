@@ -120,8 +120,25 @@ src=https://en.wikipedia.org/wiki/Cowboy_coding
 ***
 Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
 
+Les langages de programmation les plus plébiscités aujourd'hui sont :
+
+C
+Java
+C++
+Objective-C
+C#
+JavaScript
+PHP
+Python
+Visual Basic .NET
+Visual Basic 
+
+src=http://www.esilv.fr/numerique-le-classement-des-langages-de-programmation-les-plus-populaires/
+
 ***
 Quelles sont les différences entre un software open-source et un software free ?
+
+
 
 ***
 Trouvez trois entreprises qui développent des solutions Free & OpenSource
