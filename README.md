@@ -40,6 +40,7 @@ src = https://fr.wikipedia.org/wiki/Manifeste_agile
 
 voici le lien du premier screenshot de la première version de Facebook http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg
 
+***
 30-Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
 
 Windows XP 169 806 (79,8 %) 
@@ -63,3 +64,13 @@ Haut
 
 
 src = http://forum.webrankinfo.com/repartition-des-systemes-exploitation-serveur-t48420.html
+***
+31-Qu'est-ce que le load balancing ?
+
+Le load balancing, répartition de charge en français, est un ensemble de principes informatiques. Les techniques déployées ont pour objectif de distribuer une charge sur différents ordinateurs appartenant à un même groupe.
+
+Le load balancing est une solution informatique adaptée aux petits budgets.
+l devient alors inutile d’investir dans un unique appareil extrêmement puissant. Il suffit de multiplier les dispositifs peu coûteux pour obtenir la même résistance à la charge.
+
+src=http://www.promosoft.fr/quest-ce-que-le-load-balancing/
+***
