@@ -15,4 +15,12 @@ En savoir plus sur http://www.jaitoutcompris.com/questions/qui-a-invente-interne
 
 src=http://www.jaitoutcompris.com/questions/qui-a-invente-internet-12.php
 
--2
+
+2-Quelle est la différence entre le Web et Internet ?
+
+internet est un réseau par lequel transitent des données, 
+le web (raccourci de « world wide web », traduit en français par toile mondiale) correspond à une des applications utilisant ce réseau, la principale.
+
+https://www.service-public.fr/particuliers/actualites/007052
+
+28-Qu’est-ce que Agile Manifesto ? 
