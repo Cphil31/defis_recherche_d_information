@@ -102,13 +102,20 @@ src=https://fr.wikipedia.org/wiki/IPv4
 
 lIPv6 (Internet Protocol version 6) est un protocole réseau sans connexion
 elle est la version mise a jour de l'ip v4 
-
+src=https://fr.wikipedia.org
 ***
 Combien coûte un serveur pour héberger mon site perso ?
 
 
 ***
 Qu’est-ce que le Cowboy coding ?
+
+Codage Cowboy est le développement de logiciels. Sa particularité est que les programmeurs ont une autonomie sur le processus de développement.
+"Cowboy codage" voit couramment l' utilisation comme dérogatoire terme par opposition aux plus structurées méthodologies de développement de logiciels .
+Dans le codage de cow - boy, le manque de forme de gestion de projet logiciel
+
+src=https://en.wikipedia.org/wiki/Cowboy_coding
+
 
 ***
 Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?
